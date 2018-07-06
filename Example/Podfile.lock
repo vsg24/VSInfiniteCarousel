@@ -1,0 +1,16 @@
+PODS:
+  - VSInfiniteCarousel (0.1.0)
+
+DEPENDENCIES:
+  - VSInfiniteCarousel (from `../`)
+
+EXTERNAL SOURCES:
+  VSInfiniteCarousel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VSInfiniteCarousel: 851e4edc959bf387427fcfa6b2a73546f5ecc475
+
+PODFILE CHECKSUM: cf25fa7e74e69dd220b94dfd42471a6ae4c18c9f
+
+COCOAPODS: 1.4.0

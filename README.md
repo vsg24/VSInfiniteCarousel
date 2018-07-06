@@ -1,9 +1,10 @@
 # VSInfiniteCarousel
 
-[![CI Status](https://img.shields.io/travis/vsg24/VSInfiniteCarousel.svg?style=flat)](https://travis-ci.org/vsg24/VSInfiniteCarousel)
 [![Version](https://img.shields.io/cocoapods/v/VSInfiniteCarousel.svg?style=flat)](https://cocoapods.org/pods/VSInfiniteCarousel)
 [![License](https://img.shields.io/cocoapods/l/VSInfiniteCarousel.svg?style=flat)](https://cocoapods.org/pods/VSInfiniteCarousel)
 [![Platform](https://img.shields.io/cocoapods/p/VSInfiniteCarousel.svg?style=flat)](https://cocoapods.org/pods/VSInfiniteCarousel)
+
+![image](/Resources/veezee-music-ios-login-vc.gif)
 
 ## Example
 

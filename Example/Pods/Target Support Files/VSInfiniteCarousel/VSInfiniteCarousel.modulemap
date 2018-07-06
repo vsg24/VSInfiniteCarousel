@@ -1,0 +1,6 @@
+framework module VSInfiniteCarousel {
+  umbrella header "VSInfiniteCarousel-umbrella.h"
+
+  export *
+  module * { export * }
+}
